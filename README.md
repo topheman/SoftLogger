@@ -1,0 +1,4 @@
+SoftLogger
+==========
+
+Simple canvas logger
