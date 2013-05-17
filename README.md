@@ -35,8 +35,3 @@ SoftLogger.getInstance(options)
 .toggleConsole()
 
 .getLogs()
-
-Copyright (C) 2013 Christophe Rosset <tophe@topheman.com>
-
-Released under the MIT license:
-https://github.com/topheman/SoftLogger/blob/master/LICENSE
